@@ -21,6 +21,7 @@ public class Estrutura_For_Exemplo {
 		
 		sc.close();
 
+
 	}
 
 }
