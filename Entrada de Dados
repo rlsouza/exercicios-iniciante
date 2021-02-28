@@ -42,6 +42,7 @@ public class entrada_de_dados {
 		
 		sc.close();//saida do scanner indicando que não precisa mais da entrada de dados//
 
+
 	}
 
 }
