@@ -1,0 +1,15 @@
+public class casting_exemplo {
+
+	public static void main(String[] args) {
+		int x = 5;
+		double y = (int)10;// casting na variavel, conversão//
+		
+		y = x*y;
+		
+		System.out.println(x);
+		System.out.println((int)y);//casting na chamada da variavel convertendo para o tipo que o desenvolvedor quiser//
+
+
+	}
+
+}
