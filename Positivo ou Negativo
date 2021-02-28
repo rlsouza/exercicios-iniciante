@@ -18,6 +18,7 @@ public class Exercicio_estrutura_condiconal_1 {
 		}
 		
 		sc.close();
+		
 	}
 
 }
