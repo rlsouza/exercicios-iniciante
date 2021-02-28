@@ -10,6 +10,7 @@ public class casting_exemplo {
 		System.out.println((int)y);//casting na chamada da variavel convertendo para o tipo que o desenvolvedor quiser//
 
 
+
 	}
 
 }
