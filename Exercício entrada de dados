@@ -31,6 +31,7 @@ public class exercicio {
 		
 		System.out.printf("US Decimal Point: %.3f%n", measure);
 		
+		
 
 	}
 
