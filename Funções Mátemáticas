@@ -1,0 +1,40 @@
+
+public class Funcoes_Matematicas {
+
+	public static void main(String[] args) {
+		double x = 3.0;
+		double y = 4.0;
+		double z = -5.0;
+		double a,b,c;
+		
+		a = Math.sqrt(x);//Função matemática para saber a raiz quadrada//
+		b = Math.sqrt(y);//Função matemática para saber a raiz quadrada//
+		c = Math.sqrt(25);//Função matemática para saber a raiz quadrada//
+		
+		System.out.println("Raiz Quadrada de " + x + " é igual a : " + a);
+		System.out.println("Raiz Quadrada de " + y + " é igual a : " + y);
+		System.out.println("Raiz Quadrada de " + 25 + " é igual a : " + c);
+		
+		
+		a = Math.pow(x,y);//Função potência ou elevado ao quadrado//
+		b = Math.pow(y, 2.0);// Função potência ou elevado ao quadrado (exemplo y2 = 81)//
+		c = Math.pow(5.0, 2.0);// Função potência ou elevado ao quadrado//
+		
+		System.out.println(x + " elevado a " + y + " = " + a );
+		System.out.println(y + " Elevado ao quadrado =  " + b);
+		System.out.println("5 elevado ao quadrado = " + c);
+		
+		a = Math.abs(y);//Função de número absoluto//
+		b = Math.abs(z);//Função de número absoluto//
+		
+		System.out.println("O número absoluto de " + y + " é " + a);
+		System.out.println("O número absoluto de " + z + " é " + b);
+		
+		
+		
+		
+		
+
+	}
+
+}
